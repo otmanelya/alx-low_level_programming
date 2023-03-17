@@ -1,9 +1,14 @@
-#!/bin/bash
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-
+#include <stdio.h>
 /* betty styles doc for function main goes there */
+/**
+ * main - main function
+ *
+ * return: always 0
+ */
+
 int main(void)
 {
 	int n;
